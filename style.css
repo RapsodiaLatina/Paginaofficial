@@ -33,7 +33,19 @@ body::-webkit-scrollbar {
   float: left;
 }
 
-#redes{
+#redone{
+  height: 60%;
+  margin: 1% 2.8% 0 0;
+  float: right;
+}
+
+#redtwo{
+  height: 60%;
+  margin: 1% 2.8% 0 0;
+  float: right;
+}
+
+#redtre{
   height: 60%;
   margin: 1% 2.8% 0 0;
   float: right;
