@@ -1,0 +1,126 @@
+body{
+  margin: 0;
+  background-color: #0a0a0a;
+}
+
+body::-webkit-scrollbar {
+  width: 0.0001%;
+  background: gray;
+  border-radius: 2px;
+
+}
+
+.banner{
+  width: 100vw;
+  height: 11%;
+  position: fixed;
+  top: 0;
+  background-color: #000000;
+  border-bottom: #460202;
+  border-style: solid;
+  z-index: 100;
+}
+
+#logo{
+  height: 80%;
+  margin: 0.5% 0 0 4.5%;
+  float: left;
+}
+
+#titulo{
+  height: 45%;
+  margin: 1.55% 0 0 1%;
+  float: left;
+}
+
+#red{
+  height: 60%;
+  margin: 1% 2.8% 0 0;
+  float: right;
+}
+
+.contenido{
+  background-color: #0d0d0d;
+  height: 89vh;
+  margin-top: 5.25%;
+  width: 80%;
+}
+
+.s1{
+  background-color: #0d0d0d;
+  width: 100%;
+  height: auto;
+}
+
+#nameone{
+  margin: 3% 0 0 6%;
+  width: 89%;
+}
+
+#carrusel{
+  margin: 0 0 0 6%;
+  width: 88.6%;
+}
+
+.s2{
+  background-color: #0d0d0d;
+  width: 100%;
+  height: auto;
+}
+
+#nametwo{
+  margin: 3% 0 0 5.6%;
+  width: 89.5%;
+}
+
+#parrafo{
+  margin: 0 0 0 6%;
+  width: 89.5%;
+}
+
+.s3{
+  background-color: #0d0d0d;
+  width: 100%;
+  height: auto;
+}
+
+#nametre{
+  margin: 3% 0 0 5.7%;
+  width: 89%;
+}
+
+.s4{
+  background-color: #0d0d0d;
+  width: 100%;
+  height: auto;
+}
+
+#namecua{
+  margin: 3% 0 0 5.1%;
+  width: 90.8%;
+}
+
+.s5{
+  background-color: #0d0d0d;
+  width: 100%;
+  height: auto;
+}
+
+#namecin{
+  margin: 3% 0 0 5.5%;
+  width: 89.5%;
+}
+
+.reproductor{
+  background-color: #0a0a0a;
+  height: 89vh;
+  width: 20%;
+  position: fixed;
+  top: 11%;
+  right: 0;
+}
+
+#reproductor{
+  width: 92%;
+  margin: 10vh 0 0 4%;
+}
