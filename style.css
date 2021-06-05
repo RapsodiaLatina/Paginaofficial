@@ -33,6 +33,12 @@ body::-webkit-scrollbar {
   float: left;
 }
 
+#red{
+  height: 60%;
+  margin: 1% 2.8% 0 0;
+  float: right;
+}
+
 .contenido{
   background-color: #0d0d0d;
   height: 89vh;
@@ -118,3 +124,4 @@ body::-webkit-scrollbar {
   width: 92%;
   margin: 10vh 0 0 4%;
 }
+
