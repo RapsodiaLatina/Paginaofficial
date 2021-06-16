@@ -89,6 +89,11 @@ body::-webkit-scrollbar {
   width: 89%;
 }
 
+#date{
+  margin: 0.3% 0 0 5.8%;
+  width: 90%;
+}
+
 .s4{
   background-color: #0d0d0d;
   width: 100%;
@@ -100,6 +105,11 @@ body::-webkit-scrollbar {
   width: 90.8%;
 }
 
+#posts{
+  margin: 0.3% 0 0 5.8%;
+  width: 90%;
+}
+
 .s5{
   background-color: #0d0d0d;
   width: 100%;
@@ -109,6 +119,11 @@ body::-webkit-scrollbar {
 #namecin{
   margin: 3% 0 0 5.5%;
   width: 89.5%;
+}
+
+#contact{
+  margin: 1% 0 0 5.8%;
+  width: 90%;
 }
 
 .reproductor{
