@@ -126,6 +126,16 @@ body::-webkit-scrollbar {
   width: 90%;
 }
 
+.pie{
+  background-color: #0d0d0d;
+  border-top: gray solid 2px;
+}
+
+#derechos{
+  margin: 0.5% 0 0 5.8%;
+  width: 90%;
+}
+
 .reproductor{
   background-color: #0a0a0a;
   height: 89vh;
