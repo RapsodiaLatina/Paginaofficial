@@ -51,6 +51,7 @@ position:  static;
   width: 60vw;
   padding: 3vw;
   height: 50vh;
+  border-radius: 2vw;
 }
 
 ul, li {
@@ -75,6 +76,7 @@ ul.slider li {
   height: inherit;
   transition: opacity 1s;
   background:#fff;
+  border-radius: 2vw;
 }
 
 ul.slider li img{
